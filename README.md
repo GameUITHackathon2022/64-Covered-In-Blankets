@@ -16,4 +16,8 @@ git clone https://github.com/GameUITHackathon2022/64-Covered-In-Blankets.git
     1. Tải tài nguyên từ repo github
     2. Mở bằng Unity Hub -> New Project -> Dẫn tới đường dẫn vừa tải
     3. Tiến hành build and run project 
+## Hướng dẫn chơi
+    1. Sử dụng các phím W, S, A, D để di chuyển nhân vật.
+    2. Thu gom các loại rác thải sau đó đưa tới thùng rác đúng loại.
+    3. Phải hoàn thành phân loại toàn bộ số rác trước khi thời gian kết thúc để qua màn tiếp theo.
 Chơi thử game trực tuyến tại: [https://ducphu2308.github.io/GameUITHackathon/](https://ducphu2308.github.io/GameUITHackathon/) 
